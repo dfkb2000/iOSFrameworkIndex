@@ -5,7 +5,6 @@
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
 
 ## 偶尔
 * [Google Data APIs Objective-C Client Library](https://github.com/google/gdata-objectivec-client)
@@ -47,6 +46,7 @@
 * [cell布局](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 
 ## 学习资料
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
 * [objccn](https://github.com/objccn/articles)
 * [oc技术要点汇总](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
 * [apple/swift](https://github.com/apple/swift)
