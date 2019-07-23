@@ -1,3 +1,22 @@
+## 资料
+* [iOS-Note](https://github.com/seedante/iOS-Note)
+* [程序员简历模板](https://github.com/geekcompany/ResumeSample)
+* [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+* [objccn](https://github.com/objccn/articles)
+* [oc技术要点汇总](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
+* [bestswifter](https://github.com/bestswifter/blog)
+* [apple/swift](https://github.com/apple/swift)
+* [swift算法俱乐部中文版](https://github.com/ksco/swift-algorithm-club-cn)
+* [swift算法俱乐部](https://github.com/raywenderlich/swift-algorithm-club)
+* [swift2basic](https://github.com/yagamis/swift2basic)
+* [Swift开发学习资源](https://github.com/Lax/Learn-iOS-Swift-by-Examples)
+* [转场动画](https://github.com/seedante/iOS-ViewController-Transition-Demo)
+* [PushTalk](https://github.com/good-life/PushTalk)
+* [iOS-Weekly老司机周报](https://github.com/SwiftOldDriver/iOS-Weekly)
+* [模拟定位](https://github.com/RockerHX/SimulateLocation)
+
+
 ## 常用
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 * [SDWebImage](https://github.com/SDWebImage/SDWebImage)
@@ -6,7 +25,22 @@
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)
 
+## afn
+* [HYBNetworking](https://github.com/CoderJackyHuang/HYBNetworking)
+* [YTKNetwork](https://github.com/yuantiku/YTKNetwork)
+
+## 微信
+* [基于YYKit的朋友圈](https://github.com/andy123234/Moment-WeChat-YYKit)
+* [朋友圈](https://github.com/zhengwenming/WeChat)
+* [微信（WeChat）开发](https://github.com/CoderMikeHe/WeChat)
+* [高仿微信](https://github.com/motianhuo/wechat)
+
+## 工具
+* [PPRows - 统计代码行数](https://github.com/jkpang/PPRows)
+* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+
 ## 偶尔
+* [MGJRouter - 一个高效/灵活的 iOS URL Router](https://github.com/meili/MGJRouter)
 * [Google Data APIs Objective-C Client Library](https://github.com/google/gdata-objectivec-client)
 * [XML/HTML解析](https://github.com/topfunky/hpple)
 * [苹果iOS私有API检查工具](https://github.com/NetEaseGame/iOS-private-api-checker)
@@ -44,39 +78,6 @@
 * [epub阅读器](https://github.com/KingOfZhang/Epub)
 * [PDF阅读器](https://github.com/vfr/UXReader-iOS)
 * [cell布局](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
-
-## 学习资料
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
-* [objccn](https://github.com/objccn/articles)
-* [oc技术要点汇总](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
-* [apple/swift](https://github.com/apple/swift)
-* [swift算法俱乐部中文版](https://github.com/ksco/swift-algorithm-club-cn)
-* [swift算法俱乐部](https://github.com/raywenderlich/swift-algorithm-club)
-* [swift2basic](https://github.com/yagamis/swift2basic)
-* [Swift开发学习资源](https://github.com/Lax/Learn-iOS-Swift-by-Examples)
-* [iOS-Note](https://github.com/seedante/iOS-Note)
-* [bestswifter](https://github.com/bestswifter/blog)
-* [转场动画](https://github.com/seedante/iOS-ViewController-Transition-Demo)
-* [MGJRouter - 一个高效/灵活的 iOS URL Router](https://github.com/meili/MGJRouter)
-* [PushTalk](https://github.com/good-life/PushTalk)
-* [程序员简历模板](https://github.com/geekcompany/ResumeSample)
-* [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
-* [iOS-Weekly老司机周报](https://github.com/SwiftOldDriver/iOS-Weekly)
-* [模拟定位](https://github.com/RockerHX/SimulateLocation)
-
-## afn
-* [HYBNetworking](https://github.com/CoderJackyHuang/HYBNetworking)
-* [YTKNetwork](https://github.com/yuantiku/YTKNetwork)
-
-## 微信
-* [基于YYKit的朋友圈](https://github.com/andy123234/Moment-WeChat-YYKit)
-* [朋友圈](https://github.com/zhengwenming/WeChat)
-* [微信（WeChat）开发](https://github.com/CoderMikeHe/WeChat)
-* [高仿微信](https://github.com/motianhuo/wechat)
-
-## 工具
-* [PPRows - 统计代码行数](https://github.com/jkpang/PPRows)
-* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 
 
 ## 其他
