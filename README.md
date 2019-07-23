@@ -12,10 +12,7 @@
 * [apple/swift](https://github.com/apple/swift)
 * [swift算法俱乐部中文版](https://github.com/ksco/swift-algorithm-club-cn)
 * [swift算法俱乐部](https://github.com/raywenderlich/swift-algorithm-club)
-* [转场动画](https://github.com/seedante/iOS-ViewController-Transition-Demo)
-* [PushTalk](https://github.com/good-life/PushTalk)
 * [iOS-Weekly老司机周报](https://github.com/SwiftOldDriver/iOS-Weekly)
-* [模拟定位](https://github.com/RockerHX/SimulateLocation)
 
 
 ## 常用
@@ -25,12 +22,15 @@
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)
+* [瀑布流布局](https://github.com/BestJoker/FJSPicMixCollectionViewLayout)
+* [转场动画](https://github.com/seedante/iOS-ViewController-Transition-Demo)
 
 ## afn
 * [HYBNetworking](https://github.com/CoderJackyHuang/HYBNetworking)
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork)
 
 ## 微信
+* [微信相册](https://github.com/banchichen/TZImagePickerController)
 * [基于YYKit的朋友圈](https://github.com/andy123234/Moment-WeChat-YYKit)
 * [朋友圈](https://github.com/zhengwenming/WeChat)
 * [微信（WeChat）开发](https://github.com/CoderMikeHe/WeChat)
@@ -41,6 +41,7 @@
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 
 ## 偶尔
+* [PushTalk](https://github.com/good-life/PushTalk)
 * [MGJRouter - 一个高效/灵活的 iOS URL Router](https://github.com/meili/MGJRouter)
 * [Google Data APIs Objective-C Client Library](https://github.com/google/gdata-objectivec-client)
 * [XML/HTML解析](https://github.com/topfunky/hpple)
@@ -54,12 +55,10 @@
 * [YYKit](https://github.com/ibireme/YYKit)
 * [TBSpringBoard](https://github.com/TimBao/TBSpringBoard)
 * [XZMRefresh 横向刷新](https://github.com/xiezhongmin/XZMRefresh)
-* [瀑布流布局](https://github.com/BestJoker/FJSPicMixCollectionViewLayout)
 * [XHNetworkCache](https://github.com/CoderZhuXH/XHNetworkCache)
 * [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders)
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
 * [文件下载、断点续传](https://github.com/bujige/YSC-DownloadDemo)
-* [微信相册](https://github.com/banchichen/TZImagePickerController)
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework)
 * [LTScrollView](https://github.com/gltwy/LTScrollView)
@@ -82,6 +81,7 @@
 
 
 ## 其他
+* [模拟定位](https://github.com/RockerHX/SimulateLocation)
 * [AlfredWorkflow](https://github.com/hzlzh/AlfredWorkflow.com)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [awesome-python](https://github.com/vinta/awesome-python)
