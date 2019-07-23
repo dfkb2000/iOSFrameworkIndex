@@ -2,6 +2,7 @@
 * [iOS-Note](https://github.com/seedante/iOS-Note)
 * [oc技术要点汇总](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
 * [程序员简历模板](https://github.com/geekcompany/ResumeSample)
+* [让BAT的 offer 不再难拿](https://xiaozhuanlan.com/topic/3147056289)
 * [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
 * [objccn](https://github.com/objccn/articles)
@@ -13,6 +14,10 @@
 * [swift算法俱乐部中文版](https://github.com/ksco/swift-algorithm-club-cn)
 * [swift算法俱乐部](https://github.com/raywenderlich/swift-algorithm-club)
 * [iOS-Weekly老司机周报](https://github.com/SwiftOldDriver/iOS-Weekly)
+* 大佬传送门
+	* [喵神王威](https://onevcat.com/#blog)
+	* [阮一峰](http://www.ruanyifeng.com/home.html)
+	* [ibireme(YYKit作者)](https://blog.ibireme.com)
 
 
 ## 常用
