@@ -1,6 +1,6 @@
 ## 资料
 * [iOS-Note](https://github.com/seedante/iOS-Note)
-* [oc技术要点汇总](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
+* [oc技术要点汇总MHDevelopExample_Objective_C](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
 * [程序员简历模板](https://github.com/geekcompany/ResumeSample)
 * [让BAT的 offer 不再难拿](https://xiaozhuanlan.com/topic/3147056289)
 * [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
