@@ -14,10 +14,12 @@
 * [swift算法俱乐部中文版](https://github.com/ksco/swift-algorithm-club-cn)
 * [swift算法俱乐部](https://github.com/raywenderlich/swift-algorithm-club)
 * [iOS-Weekly老司机周报](https://github.com/SwiftOldDriver/iOS-Weekly)
+* [安装CocoaPods](https://blog.devtang.com/2014/05/25/use-cocoapod-to-manage-ios-lib-dependency/)
 * 大佬传送门
 	* [喵神王威](https://onevcat.com/#blog)
 	* [阮一峰](http://www.ruanyifeng.com/home.html)
 	* [ibireme(YYKit作者)](https://blog.ibireme.com)
+	* [casatwy](https://casatwy.com)
 
 ## 实用网站
 
