@@ -16,16 +16,18 @@
 * [iOS-Weekly老司机周报](https://github.com/SwiftOldDriver/iOS-Weekly)
 * [安装CocoaPods](https://blog.devtang.com/2014/05/25/use-cocoapod-to-manage-ios-lib-dependency/)
 * 大佬传送门
-	* [喵神王威](https://onevcat.com/#blog)
+	* [one'v](https://onevcat.com/#blog)
 	* [阮一峰](http://www.ruanyifeng.com/home.html)
 	* [ibireme(YYKit作者)](https://blog.ibireme.com)
 	* [casatwy](https://casatwy.com)
+	* [bang](http://blog.cnbang.net)
 
 ## 实用网站
 
 ## 工具
 * [PPRows - 统计代码行数](https://github.com/jkpang/PPRows)
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+* [What is my ip address](http://ifconfig.io)
 
 ## 常用框架
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
@@ -36,6 +38,7 @@
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)
 
 ## 偶尔
+* [ZipArchive](https://github.com/ZipArchive/ZipArchive)
 * [瀑布流布局](https://github.com/BestJoker/FJSPicMixCollectionViewLayout)
 * [转场动画](https://github.com/seedante/iOS-ViewController-Transition-Demo)
 * [PushTalk](https://github.com/good-life/PushTalk)
@@ -71,7 +74,6 @@
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
 * [JSONModel](https://github.com/jsonmodel/jsonmodel)
 * [sskeychain-master](https://github.com/Mingriweiji-github/sskeychain-master)
-* [ZipArchive](https://github.com/ZipArchive/ZipArchive)
 * [epub阅读器](https://github.com/KingOfZhang/Epub)
 * [PDF阅读器](https://github.com/vfr/UXReader-iOS)
 * [cell布局](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
